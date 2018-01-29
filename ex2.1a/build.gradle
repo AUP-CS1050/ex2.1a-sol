@@ -6,7 +6,7 @@ apply plugin: 'java'
 apply plugin: 'application'
 apply plugin: 'checkstyle'
 
-mainClassName = 'aup.cs.LFSREncoding'
+mainClassName = 'aup.cs.LfsrEncoding'
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
